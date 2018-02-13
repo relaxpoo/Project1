@@ -1,0 +1,31 @@
+a.navbar-brand
+{
+border:1px solid #ccc;
+border-radius:0.2rem;
+padding:0.3rem;
+font-size:1.2rem;
+}
+.collapse.navbar-collapse ul li a.nav-link:hover
+{
+color:#fff;
+}
+a.navbar-brand:hover
+{
+color:#ccc;
+}
+.nav-item:hover
+{
+background:#fff;
+}
+.nav-item:hover
+{
+color:#fff;	
+padding:0.1rem;
+}
+.navbar-toggler
+{
+color:#fff;
+border:1px solid #fff;
+padding:0.4rem;
+font-size:1.3rem;
+}

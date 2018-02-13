@@ -1,0 +1,30 @@
+
+.footer-section {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+ }
+footer {
+    padding-top:10px;
+    border-top:10px #fff;
+}
+.address{
+text-align:right;
+}
+.copyright{
+text-align:center;
+}
+.footer{
+	width:100%;
+	position:fixed;
+	bootom:0;
+	height:60px;
+}
+.wrapper {	
+	min-height:100%;
+	position: relative;
+}
+
+.content {
+	padding-bottom: 30px; /*height of the footer*/	
+}
